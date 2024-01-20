@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nekoda/static/css/main.afdb1c9e.css",
-    "main.js": "/nekoda/static/js/main.cde9edf4.js",
+    "main.js": "/nekoda/static/js/main.d6222899.js",
     "static/js/787.09995f5e.chunk.js": "/nekoda/static/js/787.09995f5e.chunk.js",
     "static/media/Mask group.png": "/nekoda/static/media/Mask group.b09a271ae2feb33ab8f0.png",
     "static/media/skyscraper.png": "/nekoda/static/media/skyscraper.8fac1f514364752d33c4.png",
@@ -21,11 +21,11 @@
     "static/media/landFreight.svg": "/nekoda/static/media/landFreight.09ba09411adf3cd4e32db34b7258570b.svg",
     "index.html": "/nekoda/index.html",
     "main.afdb1c9e.css.map": "/nekoda/static/css/main.afdb1c9e.css.map",
-    "main.cde9edf4.js.map": "/nekoda/static/js/main.cde9edf4.js.map",
+    "main.d6222899.js.map": "/nekoda/static/js/main.d6222899.js.map",
     "787.09995f5e.chunk.js.map": "/nekoda/static/js/787.09995f5e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.afdb1c9e.css",
-    "static/js/main.cde9edf4.js"
+    "static/js/main.d6222899.js"
   ]
 }
