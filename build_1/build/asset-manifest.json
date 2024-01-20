@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3a6b2f8b.css",
+    "main.js": "/static/js/main.02b12197.js",
+    "static/js/787.09995f5e.chunk.js": "/static/js/787.09995f5e.chunk.js",
+    "static/media/Mask group.png": "/static/media/Mask group.b09a271ae2feb33ab8f0.png",
+    "static/media/skyscraper.png": "/static/media/skyscraper.8fac1f514364752d33c4.png",
+    "static/media/nekoda.png": "/static/media/nekoda.cf988963d4e516bee95c.png",
+    "static/media/parallex.png": "/static/media/parallex.06d08e01f7f433ce8d34.png",
+    "static/media/aboutBanner.png": "/static/media/aboutBanner.c7dc8d151e0b988afce3.png",
+    "static/media/careerBanner.png": "/static/media/careerBanner.8a3aad172f82e675eb4f.png",
+    "static/media/secure.png": "/static/media/secure.4856a1ce3bcff33cd3dc.png",
+    "static/media/sea.png": "/static/media/sea.6f60236aed2817a3a391.png",
+    "static/media/about.png": "/static/media/about.1e5b7fd16e083f12ce9b.png",
+    "static/media/NEKODA-FULL-LOGO-WHITE-03 1.svg": "/static/media/NEKODA-FULL-LOGO-WHITE-03 1.ab5094f7410381d7eabc97b69ec208e6.svg",
+    "static/media/joinOurTeam.png": "/static/media/joinOurTeam.7baf00fe5cf18b050142.png",
+    "static/media/NGL-LOGO-300X300PIXELS 1.png": "/static/media/NGL-LOGO-300X300PIXELS 1.19019833f3f9852d4efc.png",
+    "static/media/shekhar.JPG": "/static/media/shekhar.c998638183ce2bc865b9.JPG",
+    "static/media/oceanFreight.svg": "/static/media/oceanFreight.5300d0239bd7f29f69e5eaba243eedc9.svg",
+    "static/media/airFreight.svg": "/static/media/airFreight.b102ba412f7aaea74726a191e4cd99e9.svg",
+    "static/media/railFreight.svg": "/static/media/railFreight.e89b23e18b82128896ffb666abddf156.svg",
+    "static/media/landFreight.svg": "/static/media/landFreight.09ba09411adf3cd4e32db34b7258570b.svg",
+    "index.html": "/index.html",
+    "main.3a6b2f8b.css.map": "/static/css/main.3a6b2f8b.css.map",
+    "main.02b12197.js.map": "/static/js/main.02b12197.js.map",
+    "787.09995f5e.chunk.js.map": "/static/js/787.09995f5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a6b2f8b.css",
+    "static/js/main.02b12197.js"
+  ]
+}

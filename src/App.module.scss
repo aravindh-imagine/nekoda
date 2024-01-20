@@ -1,0 +1,43 @@
+.w_full {
+    width: 100% !important;
+}
+
+.h_full {
+    height: 100% !important;
+}
+
+.relative {
+    position: relative;
+}
+
+.ml_auto {
+    margin-left: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.align_center {
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.customCursor {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 14px;
+    height: 14px;
+    background-color: #333333;
+    border-radius: 50%;
+    pointer-events: none;
+    z-index: 555;
+}
+
+.flex_col {
+    flex-direction: column;
+}
